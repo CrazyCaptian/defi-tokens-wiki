@@ -4,4 +4,19 @@
     "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
     "decimals": 8,
     "dharmaVerificationStatus": "VERIFIED"
+    "description": "The Ethereum community's faithful implementation of 'Bitcoin' in a trustless, immutable Ethereum smart contract. Launched Feb 2018, No Premine, No ICO, Tokens are created in exchange for SHA3 Proof-of-Work submitted to the contract and the contract auto-adjusts difficuly with no oracles or human control.  Trustless with Zero Human Authority",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/0xbitcoin_erc20"
+        },
+        {
+            "type": "website",
+            "value": "https://0xbitcoin.org/"
+        },
+        {
+            "type": "discord",
+            "value": "https://discordapp.com/invite/JGEqqmS"
+        }
+    ]
 }
